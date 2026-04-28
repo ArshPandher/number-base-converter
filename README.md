@@ -356,17 +356,6 @@ Potential enhancements for future versions:
 
 ---
 
-## 📸 Screenshots
-
-*Section for future screenshots:*
-
-- **Screenshot 1:** Input form with example
-- **Screenshot 2:** Results display showing all three bases
-- **Screenshot 3:** Educational step-by-step explanation
-- **Screenshot 4:** Mobile responsive layout
-- **Screenshot 5:** Example quick-reference section
-
----
 
 ## 🤝 Contributing
 
@@ -390,7 +379,7 @@ Educational Use License — Use freely for learning and teaching Computer Archit
 
 **Created for:** Honors Computer Architecture Course  
 **Date:** Spring 2026 
-**Institution:** Your University Here
+**Institution:** Purdue University Fort Wayne
 
 ---
 
